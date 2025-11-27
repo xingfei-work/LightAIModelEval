@@ -1,0 +1,14 @@
+# Full dependencies including all optional features
+-r runtime.txt
+
+# LMDeploy support
+lmdeploy>=0.1.0
+
+# vLLM support
+vllm>=0.1.0
+
+# Other optional dependencies
+scipy>=1.8.0
+scikit-learn>=1.2.0
+matplotlib>=3.5.0
+seaborn>=0.11.0

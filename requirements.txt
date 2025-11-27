@@ -1,1 +1,11 @@
--r requirements/runtime.txt
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+cryptography>=3.4.8
+requests>=2.25.1
+celery>=5.2.0
+redis>=4.0.0
+SQLAlchemy>=1.4.0
+mysqlclient>=2.0.0
+minio>=7.1.0
+opencompass>=0.0.1

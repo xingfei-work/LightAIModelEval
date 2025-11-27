@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.20.0
+torch>=1.10.0
+transformers>=4.20.0
+datasets>=2.0.0
+evaluate>=0.0.1
+accelerate>=0.15.0
+peft>=0.3.0
+sentencepiece>=0.1.96
+tqdm>=4.64.0
+mmengine>=0.7.0
+
+# API related
+-r api.txt
+
+# Web UI related
+gradio>=3.20.0
